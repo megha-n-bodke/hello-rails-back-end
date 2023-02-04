@@ -21,6 +21,8 @@
 
 # 📖 [hello-rails-back-end] <a name="about-project"></a>
 
+[React App Link] (https://github.com/megha-n-bodke/hello-react-front-end)
+
 > Description the project.
 
 1. Install Ruby on Rails framework.
@@ -73,9 +75,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mega-blog-app.herokuapp.com/)
+- [Live Demo Link]
 
-- [Video Demo Link](https://www.loom.com/share/d48c6d6e2798421e9eecdfe4ca470d40)
+- [Video Demo Link]
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
