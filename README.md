@@ -88,7 +88,7 @@
 **To get a local copy up and running, follow these steps.**
 
 1. Open terminal or cmd on you local machine and navigate to your desired directory.
-2. **Run** _'git clone clone https://github.com/megha-n-bodke/budget-app'_
+2. **Run** _'git clone clone https://github.com/megha-n-bodke/hello-rails-back-end'_
 3. **Run** _'code .'_
 
 ### Prerequisites
